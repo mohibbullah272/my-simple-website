@@ -4,3 +4,49 @@ div{
     margin: 10px;
 
 }
+.hedar{
+    background-image: url(https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-a-web-developer.jpg);
+    width: 100%;
+    height: 400px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    padding: 5%;
+    font-size: 50px;
+  color: rgb(46, 13, 46);
+}
+.div1{
+    border: 10px solid rgba(231, 145, 15, 0.904);
+    margin: 10px 20px 50px 50px ;
+    box-shadow: 10px 10px 10px purple;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px ;
+}
+#first{
+    text-align: center;
+    justify-content: center;
+    color: brown;
+
+}
+#first:hover{
+    display: none;
+}
+.div1:hover{
+    box-shadow: 10px 10px 10px darkred;
+}
+.login{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(18, 148, 141);
+}
+h3{
+    font-size: 25px;
+    color: rgb(151, 218, 27);
+}
+#btn{
+    background-color:blue;
+    color: black;
+    font-weight: bold;
+}
